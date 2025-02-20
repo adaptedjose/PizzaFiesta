@@ -1,4 +1,4 @@
-# Pizza Fiesta
+# PizzaFiesta
 
 ## 1. Descripción General del Proyecto
 
