@@ -91,10 +91,10 @@ select nombreIngrediente, precioExtra from ingredientes;
 Para ejecutar correctamente las consultas SQL recién entregadas es necesario tener en cuenta ciertos puntos como:
 
 Anotaciones:
--estado de “pedidos” es un enum(“Pendiente”, “En preparación”, “Listo para recoger”, “Recogido”)
--metodo de “pedidos” es un enum(“Efectivo”, “Tarjeta”, “Otro”)
--tipo de “producto” es un enum(“Pizza”, “Bebida”, “Combo”)
--tamano de “pizza” es un enum(“Pequena”, “Mediana”, “Grande”)
+- estado de “pedidos” es un enum(“Pendiente”, “En preparación”, “Listo para recoger”, “Recogido”)
+- metodo de “pedidos” es un enum(“Efectivo”, “Tarjeta”, “Otro”)
+- tipo de “producto” es un enum(“Pizza”, “Bebida”, “Combo”)
+- tamano de “pizza” es un enum(“Pequena”, “Mediana”, “Grande”)
 
 
 
